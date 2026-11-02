@@ -27,3 +27,13 @@
 - Local Outlier Factor (LOF)
 - Autoencoder neural network
 - Anomaly detection evaluation and model comparison
+
+## 03. Actuarial Concepts & AML Risk Analysis
+- Probability: Estimating the likelihood that a transaction is associated with suspicious activity
+- Severity / Impact: Using transaction amounts as a proxy for potential financial exposure
+- Expected Loss: Combining event probability and estimated impact to illustrate expected exposure
+- Risk Appetite: Defining the institution's hypothetical willingness to accept a given level of risk
+- Risk Tolerance: Establishing acceptable variation around the institution's risk appetite
+- Base Rate: Measuring the overall prevalence of laundering-labeled transactions
+- Conditional Probability: Estimating suspicious activity likelihood given observed transaction characteristics
+- Uncertainty: Quantifying uncertainty around estimated risk using confidence intervals
